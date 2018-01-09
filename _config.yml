@@ -17,7 +17,7 @@ title: Crypto Exchange Python Programming Blog
 email: hello@sammchardy.net
 author: Sam McHardy
 description: >- # this means to ignore newlines until "baseurl:"
-  Examples to use python-binance, python-kucoin, python-quoine and python-idex.
+  Examples to use python with Binancem Kucoin, Quoinex, Qryptos and IDEX crytocurrency exchanges.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sammchardy
