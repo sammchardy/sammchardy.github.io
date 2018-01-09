@@ -1,0 +1,74 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <p>If you have any suggestions for articles you'd like to see let me know.</p>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        Sign-up to trade
+        <ul class="contact-list">
+          <li>
+              <a href="{{ site.binance_url }}" target="_blank">Binance</a>
+          </li>
+          <li>
+              <a href="{{ site.kucoin_url }}" target="_blank">Kucoin</a>
+          </li>
+          <li>
+              <a href="{{ site.quoinex_url }}" target="_blank">Quoinex</a> &
+              <a href="{{ site.qryptos_url }}" target="_blank">Qryptos</a>
+          </li>
+          <li>
+              <a href="{{ site.idex_url }}" target="_blank">IDEX</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        Contact me
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+
+          {% if site.telegram_username %}
+          <li>
+            {% include icon-telegram.html username=site.telegram_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        Donate if this blog has helped you
+        <ul class="contact-list">
+          <li>
+              ETH: {{ site.eth_address }}
+          </li>
+          <li>
+              LTC: {{ site.ltc_address }}
+          </li>
+          <li>
+              NEO: {{ site.neo_address }}
+          </li>
+          <li>
+              BTC: {{ site.btc_address }}
+          </li>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

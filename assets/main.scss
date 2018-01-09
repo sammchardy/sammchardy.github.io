@@ -1,0 +1,18 @@
+---
+---
+
+@import "minima";
+
+.footer-col-1 {
+    width: -webkit-calc(25% - (30px / 2));
+    width: calc(25% - (30px / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(55% - (30px / 2));
+    width: calc(55% - (30px / 2));
+}
+
+.social-media-list .icon.icon--telegram {
+    padding-right: 9px;
+}

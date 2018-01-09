@@ -1,0 +1,68 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Crypto Exchange Python Programming Blog
+email: hello@sammchardy.net
+author: Sam McHardy
+description: >- # this means to ignore newlines until "baseurl:"
+  Examples to use python-binance, python-kucoin, python-quoine and python-idex.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sammchardy
+twitter:
+  username: sammchardy
+github_username:  sammchardy
+telegram_username:  sammchardy
+reddit_username:  sammchardy
+
+social:
+  name: Sam McHardy
+  links:
+    - https://twitter.com/sammchardy
+    - https://github.com/sammchardy
+    - https://t.me/sammchardy
+
+binance_url: https://www.binance.com/?ref=10099792
+kucoin_url: https://www.kucoin.com/#/?r=E42cWB
+quoinex_url: https://accounts.quoinex.com/sign-up?affiliate=PAxghztC67615
+qryptos_url: https://accounts.qryptos.com/sign-up?affiliate=PAxghztC67615
+idex_url: https://idex.market
+
+eth_address: "0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70"
+ltc_address: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
+btc_address: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
+neo_address: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+
+minima:
+  date_format: "%b %-d, %Y"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
