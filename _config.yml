@@ -63,6 +63,9 @@ plugins:
 minima:
   date_format: "%b %-d, %Y"
 
+disqus:
+    shortname: sammchardy
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
