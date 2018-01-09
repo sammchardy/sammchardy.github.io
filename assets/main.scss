@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.footer-col {
+    margin-bottom: 5px;
+}
+
 .footer-col-1 {
     width: -webkit-calc(25% - (30px / 2));
     width: calc(25% - (30px / 2));

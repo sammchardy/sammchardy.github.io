@@ -42,6 +42,11 @@ quoinex_url: https://accounts.quoinex.com/sign-up?affiliate=PAxghztC67615
 qryptos_url: https://accounts.qryptos.com/sign-up?affiliate=PAxghztC67615
 idex_url: https://idex.market
 
+python_binance_url: https://github.com/sammchardy/python-binance
+python_kucoin_url: https://github.com/sammchardy/python-kucoin
+python_quoine_url: https://github.com/sammchardy/python-quoine
+python_idex_url: https://github.com/sammchardy/python-idex
+
 eth_address: "0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70"
 ltc_address: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
 btc_address: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
