@@ -176,7 +176,7 @@ klines = client.get_historical_klines("ETHBTC", Client.KLINE_INTERVAL_30MINUTE, 
 
 ### Next Steps
 
-With these cached klines we can open them at a later date to run backtesting on them.
+With these cached klines we can open them at a later date and run backtesting on them.
 
 Subsequent posts will look at how to use [pandas][pandas] and [TA-Lib][ta-lib] for some simple backtesting.
 
