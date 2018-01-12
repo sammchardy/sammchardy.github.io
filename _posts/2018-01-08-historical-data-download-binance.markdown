@@ -160,7 +160,7 @@ Well after all that I thought I may as well add these functions to the [python-b
 
 `date_to_milliseconds` and `interval_to_milliseconds` have been added to the new binance.helpers file.
 
-`get_historical_klines' has been added to the binance.client, so now all you need to do is run
+`get_historical_klines` has been added to the binance.client, so now all you need to do is run
 
 
 {% highlight python %}
