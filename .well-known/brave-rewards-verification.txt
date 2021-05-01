@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: sammchardy.github.io
-Token: 7c54c5e616d31b50908f2cf22a34fbb2d1fe60f5c6768a4885e6b4ab87dbe9fb
