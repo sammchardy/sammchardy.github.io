@@ -332,7 +332,7 @@ We don't have a lot of USDT and we know the minimum quantity is 0.000001, so we 
 
 {% endhighlight %}
 
-{% highlight %}
+{% highlight python %}
 
     APIError(code=-1013): Filter failure: MIN_NOTIONAL
 
@@ -446,7 +446,7 @@ This gives us `58802.609`, great now we can work out where to place our Limit se
 
 {% endhighlight %}
 
-{% highlight %}
+{% highlight python %}
 
     target_price: 60566.687269999995
     APIError(code=-1111): Precision is over the maximum defined for this asset.
@@ -464,7 +464,7 @@ We can see that is greater than our asset precision of 8 for a start, so let's a
 {% endhighlight %}
 
 
-{% highlight %}
+{% highlight python  %}
 
     target_price: 60566.68727000
     APIError(code=-1013): Filter failure: PRICE_FILTER
@@ -479,7 +479,7 @@ Ok, we know what this means, we need to satisfy 2 decimal places.
 
 {% endhighlight %}
 
-{% highlight %}
+{% highlight python  %}
 
     target_price: 60566.69
     {
@@ -538,7 +538,7 @@ to both price and quantity values.
 
 {% endhighlight %}
 
-{% highlight %}
+{% highlight python  %}
 
     target_price: 60566.69
     {
