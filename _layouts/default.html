@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <!-- Ezoic Code -->
+      <script>var ezoicId = 263682;</script>
+      <script type="text/javascript" src="//go.ezoic.net/ezoic/ezoic.js"></script>
+  <!-- Ezoic Code -->
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
