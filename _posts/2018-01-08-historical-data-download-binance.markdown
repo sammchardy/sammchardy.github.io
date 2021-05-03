@@ -10,6 +10,10 @@ In this post I'm going to step through how to download and save historical data 
 
 This example does not require an account on [Binance][binance] as it utilises public API calls.
 
+<!-- Ezoic - under_first_paragraph - under_first_paragraph -->
+<div id="ezoic-pub-ad-placeholder-101"> </div>
+<!-- End Ezoic - under_first_paragraph - under_first_paragraph -->
+
 ### Working with dates
 
 It's convenient to be able to pass human readable dates, unfortunately the Binance server only understands millisecond timestamps 
@@ -36,6 +40,10 @@ print(date_to_milliseconds("11 hours ago UTC"))
 print(date_to_milliseconds("now UTC"))
 
 {% endhighlight %}
+
+<!-- Ezoic - under_second_paragraph - under_second_paragraph -->
+<div id="ezoic-pub-ad-placeholder-103"> </div>
+<!-- End Ezoic - under_second_paragraph - under_second_paragraph -->
 
 ### Binance Kline endpoint
 

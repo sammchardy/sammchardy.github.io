@@ -17,6 +17,10 @@ go to your [API settings][kucoin-api-settings] to generate one, and enable it.
 
 You will also need to have the [python-kucoin][python-kucoin] library installed.
 
+<!-- Ezoic - under_first_paragraph - under_first_paragraph -->
+<div id="ezoic-pub-ad-placeholder-101"> </div>
+<!-- End Ezoic - under_first_paragraph - under_first_paragraph -->
+
 ### Fetching our coin balances
 
 Kucoin provides an endpoint to fetch all balances, so let's try it.
@@ -83,6 +87,10 @@ balances = client.get_all_balances()
 coins = [b['coinType'] for b in balances]
 
 {% endhighlight %}
+
+<!-- Ezoic - under_second_paragraph - under_second_paragraph -->
+<div id="ezoic-pub-ad-placeholder-103"> </div>
+<!-- End Ezoic - under_second_paragraph - under_second_paragraph -->
 
 ### Fetching value in Fiat
 
