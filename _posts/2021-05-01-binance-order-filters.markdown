@@ -446,7 +446,7 @@ This gives us `58802.609`, great now we can work out where to place our Limit se
 
 {% endhighlight %}
 
-{* highlight bash %}
+{% highlight bash %}
 
     target_price: 60566.687269999995
     APIError(code=-1111): Precision is over the maximum defined for this asset.
@@ -479,7 +479,7 @@ Ok, we know what this means, we need to satisfy 2 decimal places.
 
 {% endhighlight %}
 
-{* highlight bash %}
+{% highlight bash %}
 
     target_price: 60566.69
     {
@@ -538,7 +538,7 @@ to both price and quantity values.
 
 {% endhighlight %}
 
-{* highlight bash %}
+{% highlight bash %}
 
     target_price: 60566.69
     {

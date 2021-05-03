@@ -21,6 +21,7 @@ Save this as a python file to run.
 {% highlight python %}
 
 import asyncio
+
 from binance import AsyncClient
 
 

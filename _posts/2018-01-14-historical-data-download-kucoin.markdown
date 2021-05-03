@@ -190,11 +190,11 @@ Well as with the Binance example I may as well add these functions to the [pytho
 {% highlight python %}
 
 import json
-from binance.client import Client
+from kucoin.client import Client
 
 client = Client("", "")
 
-klines = client.get_historical_klines_tv("KCS-BTC", Client.KLINE_INTERVAL_30MINUTE, "1 Dec, 2017", "1 Jan, 2018")
+klines = client.get_historical_klines_tv("KCS-BTC", Client.RESOLUTION_30MINUTES, "1 Dec, 2017", "1 Jan, 2018")
             
 {% endhighlight %}
 
