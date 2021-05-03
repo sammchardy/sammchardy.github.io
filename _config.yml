@@ -17,7 +17,7 @@ title: Crypto Exchange Python Programming Blog
 email: hello@sammchardy.net
 author: Sam McHardy
 description: >- # this means to ignore newlines until "baseurl:"
-  Examples to use python with Binance, Kucoin, Quoinex, Qryptos and IDEX crytocurrency exchanges.
+  Examples to use python with Binance, Kucoin and IDEX crytocurrency exchanges.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sammchardy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sammchardy
@@ -36,15 +36,17 @@ social:
     - https://github.com/sammchardy
     - https://t.me/sammchardy
 
-binance_url: https://www.binance.com/?ref=10099792
-kucoin_url: https://www.kucoin.com/#/?r=E42cWB
-quoinex_url: https://accounts.quoinex.com/sign-up?affiliate=PAxghztC67615
-qryptos_url: https://accounts.qryptos.com/sign-up?affiliate=PAxghztC67615
+header_pages:
+ - https://github.com/sammchardy/python-binance
+ - https://github.com/sammchardy/python-kucoin
+
+
+binance_url: https://accounts.binance.com/en/register?ref=10099792
+kucoin_url: https://www.kucoin.com/ucenter/signup?rcode=E42cWB
 idex_url: https://idex.market
 
 python_binance_url: https://github.com/sammchardy/python-binance
 python_kucoin_url: https://github.com/sammchardy/python-kucoin
-python_quoine_url: https://github.com/sammchardy/python-quoine
 python_idex_url: https://github.com/sammchardy/python-idex
 
 eth_address: "0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70"
