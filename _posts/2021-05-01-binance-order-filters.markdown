@@ -2,7 +2,7 @@
 layout: post
 title:  "Binance Order Filters"
 date:   2021-05-03 17:07:16 +1100
-categories: binance trading filter
+categories: binance
 description: Understand Binance order filters to trade without issue
 ---
 

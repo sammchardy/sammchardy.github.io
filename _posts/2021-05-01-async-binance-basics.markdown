@@ -2,7 +2,7 @@
 layout: post
 title:  "Async basics for Binance"
 date:   2021-05-01 17:07:16 +1100
-categories: binance btc eth trading cryptocurrency python
+categories: binance
 description: Understand Python async basics in python for Binance cryptocurrency exchange trading
 ---
 
