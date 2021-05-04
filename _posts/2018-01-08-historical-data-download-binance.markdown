@@ -192,7 +192,7 @@ See the related [Kucoin post][kucoin-post] to download historical klines on [Kuc
 Subsequent posts will look at how to use [pandas][pandas] and [TA-Lib][ta-lib] for some simple backtesting.
 
 [current-millis]: https://currentmillis.com/
-[binance]: https://www.binance.com/?ref=10099792
+[binance]: https://www.binance.com/en/register?ref=KNNBYWG8
 [kucoin]: https://www.kucoin.com/#/?r=E42cWB
 [get_klines]: https://python-binance.readthedocs.io/en/latest/binance.html#binance.client.Client.get_klines
 [binance-examples]: https://github.com/sammchardy/python-binance/tree/master/examples

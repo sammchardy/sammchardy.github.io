@@ -216,7 +216,7 @@ Subsequent posts will look at how to use [pandas][pandas] and [TA-Lib][ta-lib] f
 
 [current-millis]: https://currentmillis.com/
 [kucoin]: https://www.kucoin.com/#/?r=E42cWB
-[binance]: https://www.binance.com/?ref=10099792
+[binance]: https://www.binance.com/en/register?ref=KNNBYWG8
 [binance-post]: https://sammchardy.github.io/binance/2018/01/08/historical-data-download-binance.html
 [get_kline_data_tv]: https://python-kucoin.readthedocs.io/en/latest/market.html
 [kucoin-examples]: https://github.com/sammchardy/python-kucoin/tree/master/examples

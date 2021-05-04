@@ -2,7 +2,8 @@
 layout: post
 title:  "Binance Order Filters"
 date:   2021-05-03 17:07:16 +1100
-categories: binance
+categories: binance trading filter
+description: Understand Binance order filters to trade without issue
 ---
 
 One of the issues that many traders come across is the limits on exchanges especially [Binance][binance].
@@ -580,4 +581,4 @@ Register with [Binance][binance] and switch over from the testnet and try out yo
 
 [testnet-binance]: https://testnet.binance.vision/
 [python-binance]: https://github.com/sammchardy/python-binance
-[binance]: https://www.binance.com/en/register?ref=10099792
+[binance]: https://www.binance.com/en/register?ref=KNNBYWG8
