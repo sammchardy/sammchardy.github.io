@@ -15,10 +15,6 @@ we make when we interact with the Binance servers.
 By not blocking execution we can continue processing data while we wait for responses or new data
 from websockets.
 
-<!-- Ezoic - under_first_paragraph - under_first_paragraph -->
-<div id="ezoic-pub-ad-placeholder-101"> </div>
-<!-- End Ezoic - under_first_paragraph - under_first_paragraph -->
-
 ### Simple async example
 
 Save this as a python file to run.
@@ -76,10 +72,6 @@ What we are doing here is collecting coroutines that we want executed, and then 
 asyncio to execute concurrently.
 
 `res` will be a list of responses, ordered the same as the coroutines we pass to gather.
-
-<!-- Ezoic - under_second_paragraph - under_second_paragraph -->
-<div id="ezoic-pub-ad-placeholder-103"> </div>
-<!-- End Ezoic - under_second_paragraph - under_second_paragraph -->
 
 ### Adding Websockets
 

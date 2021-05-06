@@ -20,10 +20,6 @@ you may not satisfy the MIN_NOTIONAL etc.
 
 There are a number of other filters, for this post I'm going to focus on the filters related to the Spot market.
 
-<!-- Ezoic - under_first_paragraph - under_first_paragraph -->
-<div id="ezoic-pub-ad-placeholder-101"> </div>
-<!-- End Ezoic - under_first_paragraph - under_first_paragraph -->
-
 ### What do these terms mean
 
 Lot - refers to the amount of the order, otherwise known as quantity
@@ -35,10 +31,6 @@ Base Asset - refers to the asset that is the quantity of a symbol. For the symbo
 Quote Asset - refers to the asset that is the price of a symbol. For the symbol BTCUSDT, USDT would be the quote asset.
 
 Symbol - a pair of assets that are traded on Binance
-
-<!-- Ezoic - under_second_paragraph - under_second_paragraph -->
-<div id="ezoic-pub-ad-placeholder-103"> </div>
-<!-- End Ezoic - under_second_paragraph - under_second_paragraph -->
 
 ### How to find filters
 
