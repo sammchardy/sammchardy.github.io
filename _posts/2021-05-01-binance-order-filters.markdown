@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Binance Order Filters"
+title: "Binance Order Filters"
 date:   2021-05-03 17:07:16 +1100
 categories: binance
 description: Understand Binance order filters to trade without issue
+img: binance-history.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [binance, spot, filters]
 ---
-
 One of the issues that many traders come across is the limits on exchanges especially [Binance][binance].
 
 If you have run across a Filter failure whether it be PRICE_FILTER, LOT_SIZE, MIN_NOTIONAL, MARKET_LOT_SIZE

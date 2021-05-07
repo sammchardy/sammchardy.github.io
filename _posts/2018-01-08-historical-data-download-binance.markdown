@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Save Historical data from Binance"
+title: "Save Historical data from Binance"
 date:   2018-01-08 17:07:16 +1100
 categories: binance
+description: In this post I'm going to step through how to download and save historical data from the Binance API over a given timeframe
+img: binance-history.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [binance, klines, backtesting]
 ---
 The basis of any trading strategy is having a good backtesting solution, and you can't backtest unless you have data.
 

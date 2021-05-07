@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Save Historical data from Kucoin"
+title: "Save Historical data from Kucoin"
 date:   2018-01-14 17:03:16 +1100
 categories: kucoin
+description: Download and save historical data from the Kucoin API over a given timeframe
+img: kucoin-history.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [kucoin, klines, backtesting]
 ---
 The basis of any trading strategy is having a good backtesting solution, and you can't backtest unless you have data.
 

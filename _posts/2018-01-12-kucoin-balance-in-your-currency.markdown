@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Calculate Kucoin Balance in your Currency"
+title: "Calculate Kucoin Balance in your Currency"
 date:   2018-01-12 21:07:16 +1100
 categories: kucoin
+description: Keep track of your crypto portfolio balance on Kucoin
+img: kucoin-balance.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [kucoin, balance]
 ---
 With so many different coins available it can be hard to keep track of your portfolio.
 
