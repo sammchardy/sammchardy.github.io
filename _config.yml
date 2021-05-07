@@ -18,8 +18,10 @@ email: hello@sammchardy.net
 author: Sam McHardy
 description: >- # this means to ignore newlines until "baseurl:"
   Examples to use python with Binance, Kucoin and IDEX crytocurrency exchanges.
+  Async programming, spot, futures and margin trading.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sammchardy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
 twitter_username: sammchardy
 twitter:
   username: sammchardy
@@ -27,6 +29,16 @@ github_username:  sammchardy
 telegram_username:  sammchardy
 reddit_username:  sammchardy
 
+site-twitter: #if your site has a twitter account, enter it here
+
+about-author: I am a developer focusing on backend-end development. Always hungry to keep learning. # add description
+social-twitter: sammchardy
+social-facebook: # add your Facebook handle
+social-github: sammchardy # add your Github handle
+social-linkedin: sammchardy
+social-email: hello@sammchardy.net
+
+analytics: UA-112162600-1 # Google Analytics
 google_analytics: UA-112162600-1
 
 social:
@@ -56,17 +68,25 @@ neo_address: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
   - jekyll-feed
   - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 minima:
   date_format: "%b %-d, %Y"
 
 disqus:
     shortname: sammchardy
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
