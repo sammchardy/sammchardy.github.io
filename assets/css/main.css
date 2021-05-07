@@ -1489,3 +1489,14 @@ a.newer-posts:hover {
 .footer-col-1 {
     width: calc(25% - 15px);
 }
+.footer-col-2 {
+    width: calc(20% - 15px);
+}
+.footer-col-3 {
+    width: calc(55% - 15px);
+}
+
+.contact-list, .social-media-list {
+    margin-left: 0px;
+    list-style: none;
+}
