@@ -16,6 +16,7 @@
 title: Crypto Exchange Python Programming Blog
 email: hello@sammchardy.net
 author: Sam McHardy
+author-img: profile-img.jpeg # add your photo
 description: >- # this means to ignore newlines until "baseurl:"
   Examples to use python with Binance, Kucoin and IDEX crytocurrency exchanges.
   Async programming, spot, futures and margin trading.
