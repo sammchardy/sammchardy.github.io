@@ -1479,3 +1479,13 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+.footer-col {
+  float: left;
+  margin-bottom: 5px;
+  padding-left: 15px;
+}
+
+.footer-col-1 {
+    width: calc(25% - 15px);
+}
