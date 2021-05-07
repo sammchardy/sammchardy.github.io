@@ -4,9 +4,11 @@ title: "Binance Order Filters"
 date:   2021-05-03 17:07:16 +1100
 categories: binance
 description: Understand Binance order filters to trade without issue
-img: binance-history.jpeg # Add image post (optional)
+img: order-filter.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [binance, spot, filters]
+redirect_from:
+  - /binance/2021/05/03/binance-order-filters.html
 ---
 One of the issues that many traders come across is the limits on exchanges especially [Binance][binance].
 

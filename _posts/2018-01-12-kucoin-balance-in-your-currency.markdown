@@ -7,6 +7,8 @@ description: Keep track of your crypto portfolio balance on Kucoin
 img: kucoin-balance.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [kucoin, balance]
+redirect_from:
+  - /kucoin/2018/01/12/kucoin-balance-in-your-currency.html
 ---
 With so many different coins available it can be hard to keep track of your portfolio.
 

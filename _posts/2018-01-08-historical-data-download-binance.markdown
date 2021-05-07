@@ -7,6 +7,8 @@ description: In this post I'm going to step through how to download and save his
 img: binance-history.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [binance, klines, backtesting]
+redirect_from:
+  - /binance/2018/01/08/historical-data-download-binance.html
 ---
 The basis of any trading strategy is having a good backtesting solution, and you can't backtest unless you have data.
 

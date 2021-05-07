@@ -7,6 +7,8 @@ description: Understand Python async basics in python for Binance cryptocurrency
 img: async.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [binance, asyncio]
+redirect_from:
+  - /binance/2021/05/01/async-binance-basics.html
 ---
 
 With the v1.0.0 release of [python-binance][python-binance] for [Binance][binance] came async functionality option for 

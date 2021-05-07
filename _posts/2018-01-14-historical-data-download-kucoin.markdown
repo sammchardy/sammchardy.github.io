@@ -7,6 +7,8 @@ description: Download and save historical data from the Kucoin API over a given 
 img: kucoin-history.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [kucoin, klines, backtesting]
+redirect_from:
+  - /kucoin/2018/01/14/historical-data-download-kucoin.html
 ---
 The basis of any trading strategy is having a good backtesting solution, and you can't backtest unless you have data.
 
